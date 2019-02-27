@@ -1,0 +1,1 @@
+SELECT * FROM Autors WHERE ((CHAR_LENGTH(`Book's`) - CHAR_LENGTH(REPLACE(`Book's`,',',''))+1) div CHAR_LENGTH(',')) < 7

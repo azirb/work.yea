@@ -12,7 +12,7 @@ while ($count != 64)
   $temp=$element_two; 
   $element_two=$element_one+$element_two; 
   $element_one=$temp; 
-  echo ",". $element_two; 
+  echo "," . $element_two; 
   $count++; 
 }
 
