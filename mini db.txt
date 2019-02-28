@@ -1,0 +1,9 @@
+Type of figure -> 2 ___Radius = 43
+Type of figure -> 2 ___Radius = 30
+Type of figure -> 2 ___Radius = 19
+Type of figure -> 1___Lenght =16___Weight =44
+Type of figure -> 2 ___Radius = 14
+Type of figure -> 1___Lenght =16___Weight =30
+Type of figure -> 1___Lenght =6___Weight =30
+Type of figure -> 1___Lenght =9___Weight =19
+Type of figure -> 3___Height =1___Quantity of angels =31
